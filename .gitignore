@@ -1,0 +1,11 @@
+venv/
+.venv/
+.env
+*.duckdb
+*.duckdb.wal
+__pycache__/
+.pytest_cache/
+.claude/
+CLAUDE.md
+NOTES.md
+PROMPT.md
