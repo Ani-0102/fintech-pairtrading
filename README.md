@@ -1,5 +1,7 @@
 # Pairs-Trading Research Agent
 
+**Live demo:** https://fintech-pairtrading-gsldaouwcbewbwokz9mztj.streamlit.app/
+
 > **Not investment advice.** This is a research and learning project. Backtests are historical and do not predict future results.
 
 ## Problem
