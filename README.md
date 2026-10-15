@@ -2,6 +2,8 @@
 
 **Live demo:** https://fintech-pairtrading-gsldaouwcbewbwokz9mztj.streamlit.app/
 
+![Explore page: KO-PEP stats, rebased prices, and spread z-score with ±2/±3 bands](docs/explore.png)
+
 > **Not investment advice.** This is a research and learning project. Backtests are historical and do not predict future results.
 
 ## Problem
@@ -70,3 +72,6 @@ DuckDB allows only one writing process per file.
 Default model is `gemini-3.5-flash-lite`. Each question costs one request per tool round (usually 2-7),
 and free-tier quotas are per model per day, so `gemini-3.8-flash` (about 20 requests/day free) runs out fast.
 To deploy on Streamlit Cloud, put `GEMINI_API_KEY` in the app's secrets.
+
+## License
+MIT. See [LICENSE](LICENSE).
